@@ -15,7 +15,7 @@ const movies = [
             "director": "Brad Bird, Jan Pinkava",
             "actors": "Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy",
             "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
-            "poster": "images/6.jpg"
+            "poster": "6.jpg"
         },
         {
             "id": 7,
@@ -29,7 +29,7 @@ const movies = [
             "director": "Fernando Meirelles, Kátia Lund",
             "actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva",
             "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
-            "poster": "images/7.jpg"
+            "poster": "7.jpg"
         },
        
         {
@@ -45,7 +45,7 @@ const movies = [
             "director": "Olivier Nakache, Eric Toledano",
             "actors": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",
             "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
-            "poster": "images/9.jpg"
+            "poster": "9.jpg"
         },
         {
             "id": 10,
@@ -60,7 +60,7 @@ const movies = [
             "director": "Matthew Vaughn",
             "actors": "Ian McKellen, Bimbo Hart, Alastair MacIntosh, David Kelly",
             "plot": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
-            "poster": "images/10.jpg"
+            "poster": "10.jpg"
         },
         {
             "id": 11,
@@ -75,7 +75,7 @@ const movies = [
             "director": "Mel Gibson",
             "actors": "Rudy Youngblood, Dalia Hernández, Jonathan Brewer, Morris Birdyellowhead",
             "plot": "As the Mayan kingdom faces its decline, the rulers insist the key to prosperity is to build more temples and offer human sacrifices. Jaguar Paw, a young man captured for sacrifice, flees to avoid his fate.",
-            "poster": "images/11.jpg"
+            "poster": "11.jpg"
         },
         {
             "id": 12,
@@ -89,7 +89,7 @@ const movies = [
             "director": "Martin Scorsese",
             "actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
             "plot": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
-            "poster": "images/12.jpg"
+            "poster": "12.jpg"
         },
       
         {
@@ -105,7 +105,7 @@ const movies = [
             "director": "Jorge Blanco, Javier Abad, Marcos Martínez",
             "actors": "Jessica Biel, John Cleese, Gary Oldman, Dwayne Johnson",
             "plot": "An alien civilization is invaded by Astronaut Chuck Baker, who believes that the planet was uninhabited. Wanted by the military, Baker must get back to his ship before it goes into orbit without him.",
-            "poster": "images/14.jpg"
+            "poster": "14.jpg"
         },
         {
             "id": 15,
@@ -120,7 +120,7 @@ const movies = [
             "director": "Rian Johnson",
             "actors": "Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",
             "plot": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
-            "poster": "images/15.jpg"
+            "poster": "15.jpg"
         },
         {
             "id": 16,
@@ -135,7 +135,7 @@ const movies = [
             "director": "Tim Burton, Mike Johnson",
             "actors": "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman",
             "plot": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
-            "poster": "images/16.jpg"
+            "poster": "16.jpg"
         },
         {
             "id": 17,
@@ -150,7 +150,7 @@ const movies = [
             "director": "Carol Reed",
             "actors": "Joseph Cotten, Alida Valli, Orson Welles, Trevor Howard",
             "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
-            "poster": "images/17.jpg"
+            "poster": "17.jpg"
         },
         {
             "id": 18,
@@ -165,7 +165,7 @@ const movies = [
             "director": "Danny Boyle",
             "actors": "Leonardo DiCaprio, Daniel York, Patcharawan Patarakijjanon, Virginie Ledoyen",
             "plot": "Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.",
-            "poster": "images/18.jpg"
+            "poster": "18.jpg"
         },
         {
             "id": 19,
@@ -179,7 +179,7 @@ const movies = [
             "director": "Brian De Palma",
             "actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio",
             "plot": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
-            "poster": "images/19.jpg"
+            "poster": "19.jpg"
         },
         {
             "id": 20,
@@ -194,7 +194,7 @@ const movies = [
             "director": "Alex Cox",
             "actors": "Gary Oldman, Chloe Webb, David Hayman, Debby Bishop",
             "plot": "Morbid biographical story of Sid Vicious, bassist with British punk group the Sex Pistols, and his girlfriend Nancy Spungen. When the Sex Pistols break up after their fateful US tour, ...",
-            "poster": "images/20.jpg"
+            "poster": "20.jpg"
         },
         {
             "id": 21,
@@ -208,7 +208,7 @@ const movies = [
             "director": "Darren Aronofsky",
             "actors": "Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey",
             "plot": "A committed dancer wins the lead role in a production of Tchaikovsky's \"Swan Lake\" only to find herself struggling to maintain her sanity.",
-            "poster": "images/21.jpg"
+            "poster": "21.jpg"
         },
         {
             "id": 22,
@@ -223,7 +223,7 @@ const movies = [
             "director": "Christopher Nolan",
             "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
             "plot": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
-            "poster": "images/22.jpg"
+            "poster": "22.jpg"
         },
         {
             "id": 23,
@@ -237,7 +237,7 @@ const movies = [
             "director": "Michael Cimino",
             "actors": "Robert De Niro, John Cazale, John Savage, Christopher Walken",
             "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
-            "poster": "images/23.jpg"
+            "poster": "23.jpg"
         },
         {
             "id": 24,
@@ -252,7 +252,7 @@ const movies = [
             "director": "Kevin Smith",
             "actors": "Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee",
             "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.",
-            "poster": "images/24.jpg"
+            "poster": "24.jpg"
         },
         {
             "id": 25,
@@ -266,7 +266,7 @@ const movies = [
             "director": "Quentin Tarantino",
             "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
             "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
-            "poster": "images/25.jpg"
+            "poster": "25.jpg"
         },
         {
             "id": 26,
@@ -280,7 +280,7 @@ const movies = [
             "director": "Jonathan Demme",
             "actors": "Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz",
             "plot": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
-            "poster": "images/26.jpg"
+            "poster": "26.jpg"
         },
         {
             "id": 27,
@@ -294,7 +294,7 @@ const movies = [
             "director": "Sam Mendes",
             "actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
             "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
-            "poster": "images/27.jpg"
+            "poster": "27.jpg"
         },
         {
             "id": 28,
@@ -308,7 +308,7 @@ const movies = [
             "director": "Guy Ritchie",
             "actors": "Benicio Del Toro, Dennis Farina, Vinnie Jones, Brad Pitt",
             "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
-            "poster": "images/28.jpg"
+            "poster": "28.jpg"
         },
         {
             "id": 29,
@@ -323,7 +323,7 @@ const movies = [
             "director": "Alan Parker",
             "actors": "Brad Davis, Irene Miracle, Bo Hopkins, Paolo Bonacelli",
             "plot": "Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
-            "poster": "images/29.jpg"
+            "poster": "29.jpg"
         },
         {
             "id": 30,
@@ -337,7 +337,7 @@ const movies = [
             "director": "Quentin Tarantino",
             "actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
             "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-            "poster": "images/30.jpg"
+            "poster": "30.jpg"
         },
         {
             "id": 3,
@@ -351,7 +351,7 @@ const movies = [
             "director": "Frank Darabont",
             "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
             "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "poster": "images/3.jpg"
+            "poster": "3.jpg"
         },
         {
             "id": 1,
@@ -365,7 +365,7 @@ const movies = [
             "director": "Tim Burton",
             "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
             "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
-            "poster": "images/1.jpg"
+            "poster": "1.jpg"
         },
         {
             "id": 2,
@@ -380,7 +380,7 @@ const movies = [
             "director": "Francis Ford",
             "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
             "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
-            "poster": "images/2.jpg"
+            "poster": "2.jpg"
             
         },
         {
@@ -396,7 +396,7 @@ const movies = [
             "director": "Kevin Smith",
             "actors": "Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee",
             "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.",
-            "poster": "images/24.jpg"
+            "poster": "24.jpg"
         },
         {
             "id": 4,
@@ -410,7 +410,7 @@ const movies = [
             "director": "Peter Faiman",
             "actors": "Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil",
             "plot": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
-            "poster": "images/4.jpg"
+            "poster": "4.jpg"
         },
         {
             "id": 8,
@@ -424,7 +424,7 @@ const movies = [
             "director": "Christopher Nolan",
             "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
             "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
-            "poster": "images/8.jpg"
+            "poster": "8.jpg"
         },
        
        
@@ -441,7 +441,7 @@ const movies = [
             "director": "Bryan Singer",
             "actors": "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson",
             "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
-            "poster": "images/5.jpg"
+            "poster": "5.jpg"
         },
         {
             "id": 25,
@@ -455,7 +455,7 @@ const movies = [
             "director": "Quentin Tarantino",
             "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
             "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
-            "poster": "images/25.jpg"
+            "poster": "25.jpg"
         },
         {
             "id": 18,
@@ -470,7 +470,7 @@ const movies = [
             "director": "Danny Boyle",
             "actors": "Leonardo DiCaprio, Daniel York, Patcharawan Patarakijjanon, Virginie Ledoyen",
             "plot": "Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.",
-            "poster": "images/18.jpg"
+            "poster": "18.jpg"
         },
        
        
